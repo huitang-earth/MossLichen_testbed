@@ -1,0 +1,5 @@
+00_README.txt (text/plain) 3042 bytes.
+01_Gradient_traits.txt (text/plain) 412911 bytes.
+02_Gradient_bryoSLA.txt (text/plain) 53717 bytes.
+03_Gradient_pH.txt (text/plain) 150281 bytes.
+04_Species_names.txt.txt (text/plain) 2753 bytes.

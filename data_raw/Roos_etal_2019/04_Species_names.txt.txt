@@ -1,0 +1,229 @@
+Group (vasc = vascular plant, lich = lichen, bryo = bryophyte)
+Abbreviation
+Full species name
+
+
+
+VASC
+ant.odo
+Anthoxanthum odoratum
+VASC
+arc.alp
+Arctostaphylos alpina
+VASC
+ave.fle
+Avenella flexuosa
+VASC
+bet.nan
+Betula nana
+VASC
+bis.viv
+Bistorta vivipara
+VASC
+car.big
+Carex bigelowii
+VASC
+dip.alp
+Diphasiastrum alpinum
+VASC
+emp.nig
+Empetrum nigrum
+VASC
+fes.viv
+Festuca vivipara
+VASC
+hie.sp.
+Hieracium sp.
+VASC
+hup.sel
+Huperzia selago
+VASC
+jun.tri
+Juncus trifidus
+VASC
+luz.sp.
+Luzula sp.
+VASC
+luz.spi
+Luzula spicata
+VASC
+pil.sp.
+Pilosella
+VASC
+poa.alp
+Poa alpina
+VASC
+rub.cha
+Rubus chamaemorus
+VASC
+rum.ace
+Rumex acetosa
+VASC
+sal.her
+Salix herbacea
+VASC
+sol.sp.
+Solidago sp.
+VASC
+tri.eur
+Trientalis europaea
+VASC
+vac.myr
+Vaccinium myrtillus
+VASC
+vac.uli
+Vaccinium uliginosum
+VASC
+vac.vit
+Vaccinium vitis-idaea
+VASC
+vis.alp
+Viscaria alpina
+LICH
+alec.nig
+Alectoria nigricans
+LICH
+alec.och
+Alectoria ochroleuca
+LICH
+bryo.div
+Bryocaulon divergens
+LICH
+cetr.eri
+Cetraria ericetorum
+LICH
+cetr.isl
+Cetraria islandica
+LICH
+clad.arb
+Cladonia arbuscula s. lat.
+LICH
+clad.gra
+Cladonia gracilis
+LICH
+clad.ran
+Cladonia rangiferina
+LICH
+clad.sp.
+Cladonia spp.
+LICH
+clad.sty
+Cladonia stygia
+LICH
+clad.unc
+Cladonia uncialis
+LICH
+flav.cuc
+Flavocetraria cucculata
+LICH
+flav.niv
+Flavocetraria nivalis
+LICH
+neph.arc
+Nephroma arcticum
+LICH
+pelt.mal
+Peltigera malacea
+LICH
+solo.cro
+Solorina crocea
+LICH
+spha.glo
+Sphaerophorus globosus
+LICH
+ster.sp.
+Stereocaulon spp.
+LICH
+tham.ver
+Thamnolia vermicularis
+BRYO
+anas.min
+Anastrophyllum minitum
+BRYO
+cono.tet
+Conostomum tetragonum
+BRYO
+dicr.acu
+Dicranum acutifolium
+BRYO
+dicr.bre
+Dicranum brevifolium
+BRYO
+dicr.elo
+Dicranum elongatum
+BRYO
+dicr.fus
+Dicranum fuscescens
+BRYO
+dicr.gro
+Dicranum groenlandicum
+BRYO
+dicr.sco
+Dicranum scoparium
+BRYO
+gymn.con
+Gymnomitrion concinnatum
+BRYO
+hylo.spl
+Hylocomium splendens
+BRYO
+loph.atl
+Lophozia atlantica
+BRYO
+loph.cav
+Lophozia cavifolia
+BRYO
+loph.hat
+Lophozia hatcherii
+BRYO
+loph.kun
+Lophozia kunzeana
+BRYO
+loph.lyc
+Lophozia lycopodioides
+BRYO
+loph.sud
+Lophozia sudetica
+BRYO
+loph.ven
+Lophozia ventricosa
+BRYO
+para.ene
+Paraleucobryum enerve
+BRYO
+pleu.sch
+Pleurozium schreberi
+BRYO
+pohl.nut
+Pohlia nutans
+BRYO
+poly.alp
+Polytrichum alpinum
+BRYO
+poly.com
+Polytrichum commune
+BRYO
+poly.hyp
+Polytrichum hyperboreum
+BRYO
+poly.pil
+Polytrichum piliferum
+BRYO
+poly.str
+Polytrichum strictum
+BRYO
+ptil.cil
+Ptilidium ciliare
+BRYO
+raco.lan
+Racomitrium lanuginosum
+BRYO
+raco.mic
+Racomitrium microcarpon
+BRYO
+spha.rus
+Sphagnum russowii
+BRYO
+tetr.set
+Tetralophozia setifromis
+
